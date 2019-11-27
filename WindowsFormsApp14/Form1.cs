@@ -22,7 +22,7 @@ namespace WindowsFormsApp14
             int yuzler = 0, onlar = 0, birler = 0, girilen;
             string sonuc = "";
             girilen = Convert.ToInt32(textBox1.Text);
-            if (girilen <= 1 || girilen >= 3999)
+            if (girilen < 1 || girilen > 3999)
             {
                 MessageBox.Show("Lutfen 0-4000 arasi bir sayi giriniz!!");
             }

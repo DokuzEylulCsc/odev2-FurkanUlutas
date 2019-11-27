@@ -148,9 +148,9 @@
             this.label5.Font = new System.Drawing.Font("Modern No. 20", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(165, 30);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(478, 34);
+            this.label5.Size = new System.Drawing.Size(501, 34);
             this.label5.TabIndex = 0;
-            this.label5.Text = "ROMA SAYİSİ DONUSUTUCUSU";
+            this.label5.Text = "ROMA SAYİSİ DONUSTURUCUSU";
             // 
             // Form1
             // 

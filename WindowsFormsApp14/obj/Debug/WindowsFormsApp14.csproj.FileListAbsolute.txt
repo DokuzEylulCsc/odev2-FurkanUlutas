@@ -7,3 +7,12 @@ C:\Users\Furkan ULUTAŞ\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp
 C:\Users\Furkan ULUTAŞ\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
 C:\Users\Furkan ULUTAŞ\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
 C:\Users\Furkan ULUTAŞ\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Furkan ULUTAŞ\Documents\GitHub\odev2-FurkanUlutas\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
